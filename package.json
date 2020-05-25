@@ -2,6 +2,7 @@
 	"name": "@ctx-core/keyboard",
 	"version": "4.1.18",
 	"description": "ctx-core keyboard",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",

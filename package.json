@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/keyboard",
-	"version": "4.1.19",
+	"version": "4.1.20",
 	"description": "ctx-core keyboard",
 	"type": "module",
 	"main": "lib.js",

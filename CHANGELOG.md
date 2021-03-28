@@ -1,5 +1,11 @@
 # @ctx-core/keyboard
 
+## 6.0.6
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+
 ## 6.0.5
 
 ### Patch Changes

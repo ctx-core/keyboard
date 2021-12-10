@@ -1,5 +1,11 @@
 # @ctx-core/keyboard
 
+## 8.0.25
+
+### Patch Changes
+
+- package.json: - module
+
 ## 8.0.24
 
 ### Patch Changes

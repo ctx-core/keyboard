@@ -1,5 +1,11 @@
 # @ctx-core/keyboard
 
+## 8.0.36
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+
 ## 8.0.35
 
 ### Patch Changes

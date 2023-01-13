@@ -1,5 +1,11 @@
 # @ctx-core/keyboard
 
+## 8.0.40
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 8.0.39
 
 ### Patch Changes

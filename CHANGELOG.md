@@ -1,5 +1,11 @@
 # @ctx-core/keyboard
 
+## 8.0.41
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 8.0.40
 
 ### Patch Changes

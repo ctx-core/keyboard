@@ -101,4 +101,3 @@ export const OPEN_BRACKET = 219
 export const BACK_SLASH = 220
 export const CLOSE_BRAKET = 221
 export const SINGLE_QUOTE = 222
-//# sourceMappingURL=lib.js.map

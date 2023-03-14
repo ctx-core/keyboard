@@ -1,5 +1,17 @@
 # @ctx-core/keyboard
 
+## 8.2.0
+
+### Minor Changes
+
+- - KeyboardEvent\_\_key_T
+
+    - KeyboardEvent\_\_modifier_key_T
+    - KeyboardEvent\_\_whitespace_key_T
+    - KeyboardEvent\_\_navigation_key_T
+    - KeyboardEvent\_\_function_key_T
+    - KeyboardEvent\_\_numeric_keypad_key_T
+
 ## 8.1.1
 
 ### Patch Changes

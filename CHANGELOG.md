@@ -1,5 +1,11 @@
 # @ctx-core/keyboard
 
+## 8.3.0
+
+### Minor Changes
+
+- KeyboardEvent**key_T,KeyboardEvent**modifier_key_T: + 'Escape'
+
 ## 8.2.0
 
 ### Minor Changes

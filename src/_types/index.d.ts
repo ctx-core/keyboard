@@ -1,8 +1,12 @@
+/**
+ * @see {@link https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key}
+ */
 export type KeyboardEvent__modifier_key_T =
 	'Alt'
 	|'AltGraph'
 	|'CapsLock'
 	|'Control'
+	|'Escape'
 	|'Fn'
 	|'FnLock'
 	|'Hyper'

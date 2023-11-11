@@ -1,5 +1,20 @@
 # @ctx-core/keyboard
 
+## 8.4.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+
 ## 8.3.21
 
 ### Patch Changes

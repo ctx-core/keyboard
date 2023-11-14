@@ -1,5 +1,11 @@
 # @ctx-core/keyboard
 
+## 8.4.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 8.4.1
 
 ### Patch Changes

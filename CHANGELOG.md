@@ -1,5 +1,11 @@
 # @ctx-core/keyboard
 
+## 8.4.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 8.4.2
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @ctx-core/keyboard
 
+## 8.4.4
+
+### Patch Changes
+
+- tsx: ^4.1.2 -> ^4.1.3
+
 ## 8.4.3
 
 ### Patch Changes

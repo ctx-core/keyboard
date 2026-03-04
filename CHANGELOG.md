@@ -1,5 +1,13 @@
 # @ctx-core/keyboard
 
+## 8.4.12
+
+### Patch Changes
+
+- c8: ^10.1.3 -> ^11.0.0
+- check-dts: ^0.8.2 -> ^0.9.0
+- tsx: ^4.20.6 -> ^4.21.0
+
 ## 8.4.11
 
 ### Patch Changes
@@ -183,7 +191,6 @@
 ### Minor Changes
 
 - - KeyboardEvent\_\_key_T
-
     - KeyboardEvent\_\_modifier_key_T
     - KeyboardEvent\_\_whitespace_key_T
     - KeyboardEvent\_\_navigation_key_T

@@ -1,5 +1,11 @@
 # @ctx-core/keyboard
 
+## 8.4.13
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 8.4.12
 
 ### Patch Changes
